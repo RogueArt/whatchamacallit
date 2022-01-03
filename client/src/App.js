@@ -4,10 +4,10 @@ import './App.css'
 function App() {
     return (
         <div className="App">
-            <h1>Welcome to WordDiff!</h1>
+            <h1>Welcome to Whatchamacallit!</h1>
             <p>
                 To learn more about this project, click
-                <a href="https://github.com/RogueArt/word-diff">here</a>
+                <a href="https://github.com/RogueArt/whatchamacallit">here</a>
             </p>
         </div>
     )
