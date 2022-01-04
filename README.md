@@ -59,7 +59,7 @@ cargo run
 ```
 and remember to set your env variables:
 ```bash
-export MONGO_URI="{your uri of mongodb}"
-export MONGO_DATABASE="{your db name}"
+export MONGO_URI="{Your MongoDB URI}"
+export MONGO_DATABASE="{Your DB name}"
 ```
 
