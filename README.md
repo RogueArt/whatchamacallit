@@ -57,3 +57,9 @@ To start the backend Rocket server:
 cd server
 cargo run
 ```
+and remember to set your env variables:
+```bash
+export MONGO_URI="{Your MongoDB URI}"
+export MONGO_DATABASE="{Your DB name}"
+```
+
